@@ -1,1 +1,1 @@
-# PI-CNN-LSTM for penetration depth prediction
+# PI-CNN-LSTM
